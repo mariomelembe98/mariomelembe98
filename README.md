@@ -21,6 +21,8 @@ Atualmente sou **Full Stack Developer** na TEMPO, LDA, onde:
 - **Controle de Versão:** Git  
 - **Sistemas Operacionais:** Windows, Linux  
 
+## 📊 Rank de Linguagens
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomelembe98&layout=compact&theme=radical) 
 ---
 
