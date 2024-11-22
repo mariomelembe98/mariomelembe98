@@ -32,7 +32,7 @@ Atualmente sou **Full Stack Developer** na TEMPO, LDA, onde:
 ---
 
 ## 🚀 **Status dos Projectos**
-Aqui estão alguns badges para os projetos em que estou trabalhando:
+Aqui estão alguns badges para os projectos em que estou trabalhando:
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/mariomelembe98/dokan-custom-fields/build.yml?branch=main)  
 ![Code Coverage](https://img.shields.io/codecov/c/github/mariomelembe98/sistema-de-gestao-academica-uem?token=TOKEN_DO_COVERAGE)  
@@ -40,7 +40,7 @@ Aqui estão alguns badges para os projetos em que estou trabalhando:
 
 ---
 
-## 🌟 **Projetos Destacados**
+## 🌟 **Projectos Destacados**
 1. [Portal Tempo](https://tempo.co.mz/tempo/) 
 2. [MedLink](https://medlink.co.mz/) 
 3. [Medlink App](https://app.medlink.co.mz/) 
@@ -49,7 +49,7 @@ Aqui estão alguns badges para os projetos em que estou trabalhando:
 
 ## 📫 **Contacto**
 - **Email:** [mariomelembe98@gmail.com](mailto:mariomelembe98@gmail.com)
-- - **Email:** [mariomelembe@uem.ac.mz](mailto:mariomelembe@uem.ac.mz)  
+- **Email:** [mariomelembe@uem.ac.mz](mailto:mariomelembe@uem.ac.mz)  
 - **LinkedIn:** [www.linkedin.com/in/mariomelembe](https://www.linkedin.com/in/mariomelembe) 
 
 ---
