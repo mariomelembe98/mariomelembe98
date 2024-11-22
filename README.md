@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Mário Jorge Melembe
+# 👋 Olá! Eu sou Mário Melembe
 
 🎓 **Formação Acadêmica**  
 - Licenciatura em Informática - Universidade Eduardo Mondlane (UEM)  
