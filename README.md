@@ -62,7 +62,7 @@ Otimização de performance em WordPress (autoload, cache, cronjobs reais)
 - **Revista Tempo** - https://revista.tempo.co.mz/
 - **MedLink** – https://medlink.co.mz/
 - **MedLink App** – https://app.medlink.co.mz/
-- **Necrolodia** - https://necrologia.tempo.co.mz/
+- **Necrologia** - https://necrologia.tempo.co.mz/
 - **Kipekee** - https://kipekee.tempo.co.mz/
 
 ---
