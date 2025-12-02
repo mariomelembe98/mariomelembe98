@@ -14,10 +14,10 @@ Sou **Desenvolvedor Full Stack** apaixonado por criar soluções digitais eficie
 Atuo como **Full Stack Developer** na **TEMPO, LDA**, onde:
 
 - Desenvolvo aplicações web em **PHP (Laravel)**, **JavaScript** e **WordPress** (incluindo **plugins personalizados**).
-- Trabalho com **MySQL/MariaDB**, modelação de dados e otimização de desempenho.
+- Trabalho com **MySQL/MariaDB**, modelação de dados e optimização de desempenho.
 - Construo interfaces modernas usando **HTML**, **CSS**, **Bootstrap**, **Tailwind**, **React.js** e **Vue.js**.
 - Desenvolvo aplicações desktop em **Java** e **C#**.
-- Gestiono servidores **Linux (Debian/Ubuntu)** com **Nginx**, **PHP-FPM**, **systemd**, cronjobs reais e otimização de performance.
+- Gestiono servidores **Linux (Debian/Ubuntu)** com **Nginx**, **PHP-FPM**, **systemd**, cronjobs reais e optimização de performance.
 - Implemento integrações com **APIs REST** (Google Maps API, OpenAI e outras).
 - Desenvolvo soluções de marketplace com **WooCommerce + Dokan**.
 - Crio automações e microserviços com **Python + Flask**, incluindo NLP com **spaCy** e **LLMs**.
@@ -46,7 +46,7 @@ systemd · cronjobs reais · WP-CLI · Cloudflare · SSL (Let’s Encrypt / Full
 Git · GitHub · Composer · Postman · VS Code
 
 ### **Outros**
-Otimização de performance em WordPress (autoload, cache, cronjobs reais)
+Optimização de performance em WordPress (autoload, cache, cronjobs reais)
 
 ---
 
